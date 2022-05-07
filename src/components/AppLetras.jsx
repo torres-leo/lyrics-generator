@@ -19,7 +19,7 @@ const AppLetras = () => {
 				) : cargando ? (
 					<p className='text-center'>Cargando...</p>
 				) : (
-					<p className='text-center'>Busca Letras de tus Artistas Favoritos</p>
+					<p className='text-center buscar'>Busca Letras de tus Artistas Favoritos</p>
 				)}
 			</main>
 		</>
